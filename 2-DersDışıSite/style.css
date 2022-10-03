@@ -1,0 +1,19 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+#Baslik{
+    color: firebrick;
+    text-align: center;
+    border: 10px solid firebrick;
+}
+#Duyuru{
+    color: darkslategray; 
+}
+#dpüResim{
+    display: block; 
+    margin: auto;
+    border: 5px solid firebrick;
+    box-shadow: 10px;
+    width: 800px;
+}
+
